@@ -19,7 +19,7 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 
 url: https://darmuneeb.github.io # the base hostname & protocol for your site
 baseurl: /blog/
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 blog_name: contagious thoughts # blog_name will be displayed in your blog page
 blog_description: We are born and then we die. In between, we try to make sense of the world. We are nothing but replicated temporary codebreakers for nature. Now the puzzles are many so every individual has got their share, by choice or by virtue of their existence. Only by sharing the solution to our share of puzzles with each other can we get a sense of the big picture. This blog is an attempt to do the same.
 permalink: /blog/:year/:title/
-lsi: true # produce an index for related posts
+lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
