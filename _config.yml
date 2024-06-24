@@ -169,6 +169,10 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@darmuneeb322
+  - name: Google Blog
+    posts:
+      - url: https://blog.google/technology/ai/
+        published_date: 2024-06-24
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
