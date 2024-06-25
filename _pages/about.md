@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ***nullius in verba***
+subtitle: ___nullius in verba___
 
 profile:
   align: right
