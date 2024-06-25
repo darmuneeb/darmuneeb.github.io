@@ -1,7 +1,7 @@
 ---
 layout: page
 title: work exp
-permalink: /_work_experience/
+permalink: /work exp/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
