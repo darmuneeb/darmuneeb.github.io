@@ -1,8 +1,8 @@
 ---
 layout: page
-title: work exp
-permalink: /work exp/
-description: A growing collection of your cool projects.
+title: projects
+permalink: /projects/
+description: here is some of my work presented randomly
 nav: true
 nav_order: 3
 display_categories: [work, fun]
