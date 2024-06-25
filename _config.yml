@@ -169,8 +169,8 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@darmuneeb322/feed
-  - name: blogger
-    rss_url: https://reiphi.blogspot.com/feeds/posts/default/
+  # - name: blogger
+  #   rss_url: https://reiphi.blogspot.com/feeds/posts/default/
 
   # - name: Google Blog
   #   posts:
