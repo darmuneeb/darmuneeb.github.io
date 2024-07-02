@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: Job Update
 date: 2021-10-06 09:30:00
 inline: false
 related_posts: false
