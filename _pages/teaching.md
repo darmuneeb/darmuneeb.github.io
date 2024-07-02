@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I have always been interested and fascinated by academia. It is borderline romantic connection fuelled by the Hollywood and Bollywood imaginations. 
+In my college days I have been a teaching assistant for a course “numerical methods and computer programming in c++”. I have worked as an online tutor for +2 level physics. 
+I intend to fuel my passion for academia by continuing  teaching practice. 
+Adding this space to track the progression in that field. 
