@@ -1,36 +1,15 @@
 ---
 layout: post
-title: a post with formatting and links
+title:Physical reality vs abstraction: Computers
 date: 2015-03-15 16:40:16
 description: march & april, looking forward to summer
 tags: formatting links
 categories: sample-posts
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Munni badnaam hui darling tere liye.
-
-#### Hipster list
-
-- brunch
-- fixie
-- raybans
-- messenger bag
-
-#### Check List
-
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+The history of computing is a long story of adding abstractions on top of abstractions to the point where reality(if there exists such a thing) is unimaginable and unintuitive.
+You can choose one particular layer of abstraction to modify the system in a certain way but it should not blind us from the fact that there is a fundamental theory on which the whole system works and then there are other abstraction layers both above it that can help modify the system in other way of which your abstraction is a part.
+The most misleading explanation of how computers work is the cliched "oh it is just bunch of 1s and 0s".
+I think what they forgot to tell us is that this explanation was built on a theoretical interpretation of a physical phenomenon.
+You could also say that computers work with a logical combination of transistors that take input as high/low voltage and output the high/low voltage depending on the operation this combination is designed to perform. That is not it. You can go further and say that it's just a bunch of electrons orchestrated with varying electric fields. Building on top of this theory we are also taught AND,OR, and NOT using the illustrations of 1s and 0s bringing on yet another layer abstraction to what is happening at a circuit level.
+I am in no way insinuating that the theory is not useful( it is the very theory that makes computers sophisticated by bringing in high level programming languages) but that we shouldn't use this theory to explain (in a hand-waving way) the physical reality of what is happening. 
