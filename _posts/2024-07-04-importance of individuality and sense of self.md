@@ -3,8 +3,8 @@ layout: post
 title:Importance of individuality and sense of self
 date: 2023-07-04 16:40:16
 description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+tags: self philosophy life
+categories: Philosophy
 ---
 
 **The Elusive Self: An Exploration of Existence and Identity**
