@@ -1,7 +1,7 @@
 ---
 layout: post
-title:Physical reality vs abstraction: Computers
-date: 2023-03-15 16:40:16
+title:Importance of individuality and sense of self
+date: 2023-07-04 16:40:16
 description: march & april, looking forward to summer
 tags: formatting links
 categories: sample-posts
