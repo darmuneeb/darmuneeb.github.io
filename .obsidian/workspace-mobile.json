@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "6cfced5960d5a0a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ca0b909e576092c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "748815dac607af62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-07-04-importance of individuality and sense of self.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f2c900410783859",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a5bd9d90124ecc88",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6c7a26dc7c986d9d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "_config.yml",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "577129862d395a85",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "695f66bb7e401038",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6ec1aaf6e1d5fe11",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d05294f76f68307a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_posts/2024-07-04-importance of individuality and sense of self.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "62865a0956aa0d6b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_posts/2024-07-04-importance of individuality and sense of self.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8bf18882c19ad980",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_posts/2024-07-04-importance of individuality and sense of self.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "748815dac607af62",
+  "lastOpenFiles": [
+    "_posts/2024-01-27-vega-lite.md",
+    "_posts/2024-07-04-importance of individuality and sense of self.md",
+    "Untitled.md",
+    "README.md",
+    "_posts.md",
+    "_posts/2015-05-15-images.md",
+    "_posts/2015-07-15-code.md",
+    "_posts/2023-03-15-physical reality vs abstraction-computers.md",
+    "_posts/2022-12-10-giscus-comments.md",
+    "_posts/2023-03-20-table-of-contents.md",
+    "_pages/blog.md",
+    "_pages/teaching.md",
+    "_news/announcement_3.md",
+    "_news/announcement_2.md",
+    "/_config.yml",
+    "_pages/about.md",
+    "_news/announcement_1.md",
+    "CUSTOMIZE.md",
+    "Untitled.canvas",
+    "_posts/2021-07-04-diagrams.md"
+  ]
+}
