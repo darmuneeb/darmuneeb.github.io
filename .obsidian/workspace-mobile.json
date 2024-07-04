@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-15-physical reality vs abstraction-computers.md",
+                "file": "_posts/2024-07-04-importance of individuality and sense of self.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-04-importance of individuality and sense of self.md",
+                "file": "_posts/2023-03-15-physical reality vs abstraction-computers.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4e2594675033952d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-05-01-tabs.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,12 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acd99a24922462f2",
+  "active": "748815dac607af62",
   "lastOpenFiles": [
     "_posts/2023-03-15-physical reality vs abstraction-computers.md",
     "_posts/2024-07-04-importance of individuality and sense of self.md",
-    "_posts/2015-07-15-code.md",
+    "_posts/2024-05-01-tabs.md",
+    "_posts/2023-03-21-tables.md",
     "_posts/2015-05-15-images.md",
+    "_posts/2015-07-15-code.md",
     "_posts/2024-04-29-typograms.md",
     "_pages/blog.md",
     "_posts.md",
