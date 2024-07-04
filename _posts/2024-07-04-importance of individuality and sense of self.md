@@ -1,10 +1,13 @@
 ---
 layout: post
-title:Importance of individuality and sense of self
-date: 2023-07-04 16:40:16
-description: march & april, looking forward to summer
-tags: self philosophy life
+date: 2024-07-04 16:40:16
+description: preserving self in a world constantly trying to change you
+tags:
+  - self
+  - philosophy
+  - life
 categories: Philosophy
+title: Importance of individuality and sense of self
 ---
 
 **The Elusive Self: An Exploration of Existence and Identity**
