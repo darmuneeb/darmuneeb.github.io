@@ -9,7 +9,7 @@ categories: Philosophy
 
 **The Elusive Self: An Exploration of Existence and Identity**
 
-The profound and often overlooked concept of self has been a central theme in the works of many philosophers. This blog delves into the nature of existence, authenticity, and the dangers of losing oneself amidst societal pressures and external achievements.
+The profound and often overlooked concept of self has been a central theme in the works of many philosophers. This blog delves into the nature of existence, authenticity, and the dangers of losing oneself amidst societal pressures and external achievements. 
 
 ### The Facade of Success
 
