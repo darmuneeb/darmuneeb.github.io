@@ -5,6 +5,7 @@ date: 2024-03-10 11:59:00-0400
 description: 3am rants
 tags: realism random thoughts
 categories: random
+featured: true
 related_posts: true
 ---
 

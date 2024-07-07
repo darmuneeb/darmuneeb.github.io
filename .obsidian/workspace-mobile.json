@@ -15,7 +15,7 @@
               "state": {
                 "file": "_posts/2024-03-10-adjusting-to-reality.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "_posts/2023-02-25-Islam-and-Kashmir.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -68,7 +68,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "featured",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -157,8 +157,11 @@
   },
   "active": "748815dac607af62",
   "lastOpenFiles": [
-    "_posts/2024-07-04-importance of individuality and sense of self.md",
+    "_posts/2018-12-22-distill.md",
     "_posts/2023-02-25-Islam-and-Kashmir.md",
+    "_posts/2015-07-15-code.md",
+    "_posts/2024-03-10-adjusting-to-reality.md",
+    "_posts/2024-07-04-importance of individuality and sense of self.md",
     "/_posts/2024-07-04-importance of individuality and sense of self.md",
     "_news/announcement_2.md",
     "_pages/about.md",
@@ -166,14 +169,12 @@
     "_posts/2023-03-15-physical reality vs abstraction-computers.md",
     "_posts/2023-03-21-tables.md",
     "_posts/2015-05-15-images.md",
-    "_posts/2015-07-15-code.md",
     "_posts/2024-04-29-typograms.md",
     "_pages/blog.md",
     "_posts.md",
     "_posts/2024-01-27-vega-lite.md",
     "Untitled.md",
     "README.md",
-    "_posts/2024-03-10-adjusting-to-reality.md",
     "_posts/2023-03-20-table-of-contents.md",
     "_pages/teaching.md",
     "_news/announcement_3.md",
