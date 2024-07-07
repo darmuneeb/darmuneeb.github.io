@@ -15,7 +15,7 @@
               "state": {
                 "file": "_posts/2024-07-04-importance of individuality and sense of self.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-15-physical reality vs abstraction-computers.md",
+                "file": "_posts/2023-02-25-Islam-and-Kashmir.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-01-tabs.md",
+                "file": "_news/announcement_2.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-07-04-importance of individuality and sense of self.md",
+            "file": "_posts/2023-02-25-Islam-and-Kashmir.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-07-04-importance of individuality and sense of self.md",
+            "file": "_posts/2023-02-25-Islam-and-Kashmir.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-07-04-importance of individuality and sense of self.md"
+            "file": "_posts/2023-02-25-Islam-and-Kashmir.md"
           }
         }
       }
@@ -155,11 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "748815dac607af62",
+  "active": "acd99a24922462f2",
   "lastOpenFiles": [
-    "_posts/2023-03-15-physical reality vs abstraction-computers.md",
-    "_posts/2024-07-04-importance of individuality and sense of self.md",
+    "_news/announcement_2.md",
+    "_pages/about.md",
     "_posts/2024-05-01-tabs.md",
+    "_posts/2024-07-04-importance of individuality and sense of self.md",
+    "_posts/2023-02-25-Islam-and-Kashmir.md",
+    "_posts/2023-03-15-physical reality vs abstraction-computers.md",
     "_posts/2023-03-21-tables.md",
     "_posts/2015-05-15-images.md",
     "_posts/2015-07-15-code.md",
@@ -173,9 +177,7 @@
     "_posts/2023-03-20-table-of-contents.md",
     "_pages/teaching.md",
     "_news/announcement_3.md",
-    "_news/announcement_2.md",
     "/_config.yml",
-    "_pages/about.md",
     "_news/announcement_1.md",
     "CUSTOMIZE.md",
     "Untitled.canvas",
