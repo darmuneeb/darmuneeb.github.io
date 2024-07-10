@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-10-adjusting-to-reality.md",
+                "file": "_posts/2024-07-10-silent_firing .md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-03-10-adjusting-to-reality.md",
+            "file": "_posts/2024-07-10-silent_firing .md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-03-10-adjusting-to-reality.md",
+            "file": "_posts/2024-07-10-silent_firing .md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-03-10-adjusting-to-reality.md"
+            "file": "_posts/2024-07-10-silent_firing .md"
           }
         }
       }
@@ -157,10 +157,13 @@
   },
   "active": "748815dac607af62",
   "lastOpenFiles": [
+    "_posts/2024-03-10-adjusting-to-reality.md",
+    "_posts/2024-07-10-silent_firing .md",
+    "/_posts/2024-07-10-silent_firing .md",
+    "/_posts/2024-04-29-typograms.md",
     "_posts/2018-12-22-distill.md",
     "_posts/2023-02-25-Islam-and-Kashmir.md",
     "_posts/2015-07-15-code.md",
-    "_posts/2024-03-10-adjusting-to-reality.md",
     "_posts/2024-07-04-importance of individuality and sense of self.md",
     "/_posts/2024-07-04-importance of individuality and sense of self.md",
     "_news/announcement_2.md",
@@ -181,7 +184,6 @@
     "/_config.yml",
     "_news/announcement_1.md",
     "CUSTOMIZE.md",
-    "Untitled.canvas",
-    "_posts/2021-07-04-diagrams.md"
+    "Untitled.canvas"
   ]
 }
