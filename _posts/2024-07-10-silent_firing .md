@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating Corporate Games\: My Experience with Silent Firing and Lessons Learned
+title: Navigating Corporate Games - My Experience with Silent Firing and Lessons Learned
 date: 2024-07-10 00:32:13
 description: What is silent firing and how to navigate it
 tags: corporate job
