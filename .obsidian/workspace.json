@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-25_adulting_guide.md",
+                "file": "_posts/2024-08-19_adulting_guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-25_adulting_guide.md",
+                "file": "_posts/2024-08-19_adulting_guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-25_adulting_guide.md",
+                "file": "_posts/2024-08-19_adulting_guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-25_adulting_guide.md"
+                "file": "_posts/2024-08-19_adulting_guide.md"
               }
             }
           }
@@ -162,6 +162,9 @@
   "active": "7cfeb12a8be740f3",
   "lastOpenFiles": [
     "_posts/2024-07-10-silent_firing.md",
+    "_posts/2024-08-19_adulting_guide.md",
+    "_posts/2024-08-19_adulting_guide",
+    "_posts/2024-08-19_adulting_guide copy",
     "_posts/2024-08-25_adulting_guide.md",
     "_posts/2024-04-15-pseudocode.md",
     "_posts/2024-07-04-importance of individuality and sense of self.md",
@@ -183,8 +186,6 @@
     "package-lock.json",
     "lighthouse_results/desktop/alshedivat_github_io_al_folio_.html",
     "lighthouse_results/mobile/alshedivat_github_io_al_folio_.html",
-    "lighthouse_results/desktop",
-    "lighthouse_results/mobile",
     "_projects/9_project.md",
     "_projects/8_project.md",
     "_projects/7_project.md",
@@ -205,7 +206,6 @@
     "_posts/2023-12-12-tikzjax.md",
     "_posts/2023-07-12-post-bibliography.md",
     "_posts/2023-07-04-jupyter-notebook.md",
-    "_posts/2023-05-12-custom-blockquotes.md",
-    "_posts/2023-04-25-sidebar-table-of-contents.md"
+    "_posts/2023-05-12-custom-blockquotes.md"
   ]
 }
