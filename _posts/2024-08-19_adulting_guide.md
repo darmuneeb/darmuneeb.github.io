@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No Bullshit Guide To Adulting
-date: 2024-07-10 00:32:13
+date: 2024-08-19 00:32:13
 description: Values I found from my own experiences
 tags:
   - life
