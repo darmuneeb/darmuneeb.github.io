@@ -1,6 +1,6 @@
 ---
-layout: post
 title: No Bullshit Guide To Adulting
+layout: post
 date: 2024-08-19 00:32:13
 description: Values I found from my own experiences
 tags:

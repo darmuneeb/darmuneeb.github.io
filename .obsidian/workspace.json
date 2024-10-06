@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-19-adulting-guide.md",
+                "file": "_pages/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-19-adulting-guide.md",
+                "file": "_pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-19-adulting-guide.md",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-19-adulting-guide.md"
+                "file": "_pages/about.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "e009287c98a44b6d",
   "lastOpenFiles": [
+    "_posts/2024-09-06-blog.md",
     "_posts/2024-07-10-silent_firing.md",
     "_posts/2024-08-19-adulting-guide.md",
+    "2024-09-07.md",
+    "_posts/2015-05-15-images.md",
+    "Untitled.md",
     "_posts/2024-07-04-importance of individuality and sense of self.md",
     "_projects/4_project.md",
     "_posts.md",
@@ -189,10 +193,6 @@
     "_projects/2_project.md",
     "_projects/5_project.md",
     "_projects/1_project.md",
-    "_projects/3_project.md",
-    "_posts/2024-04-29-typograms.md",
-    "_posts/2024-03-10-adjusting-to-reality.md",
-    "_posts/2024-01-27-vega-lite.md",
-    "_posts/2024-01-27-code-diff.md"
+    "_projects/3_project.md"
   ]
 }
