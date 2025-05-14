@@ -1,5 +1,5 @@
 ---
-title: The cultural and philosophical necessity of failure
+title: The Cultural And Philosophical Necessity Of Failure
 layout: post
 date: 2025-05-14 02:16:00
 description: Why culture as well as individual life needs mistakes, errors and failures for growth and evolution
