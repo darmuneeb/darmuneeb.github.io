@@ -10,7 +10,12 @@ tags:
 categories: observations
 disqus_comments: true
 ---
-![[ChatGPT Image May 18, 2025 at 02_42_11 AM.png]]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/technological-singularity.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 I think in the drudgery of daily life and general human tendency of reverting to mean we forget just how insanely unique are the times we are living in. 
 
 For centuries we were contained by the physical constraints of space. Human collaboration was limited as communication mainly happened through language. That was revolutionized in part with electromagnetic communication systems and optimized over decades of progress in parallel fields. Computing came along to do the big math for us. That led to the emergence of internet and human communication was all the more participative, communal and efficient. 

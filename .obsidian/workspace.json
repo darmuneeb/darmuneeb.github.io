@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-05-17-The-Technological-Singularity.md",
+                "file": "bin/2015-05-15-images.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-17-The-Technological-Singularity"
+              "title": "2015-05-15-images"
             }
           }
         ]
@@ -165,10 +165,10 @@
   },
   "active": "39920f3460e56d30",
   "lastOpenFiles": [
-    "assets/img/ChatGPT Image May 18, 2025 at 02_42_11 AM.png",
     "_posts/2025-05-17-The-Technological-Singularity.md",
-    "bin/2024-01-27-advanced-images.md",
     "bin/2015-05-15-images.md",
+    "assets/img/technological-singularity.png",
+    "bin/2024-01-27-advanced-images.md",
     "bin/2023-04-24-videos.md",
     "bin/2023-04-25-audios.md",
     "bin/2020-09-28-github-metadata.md",
