@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/projects.md",
+                "file": "_posts/2025-05-17-The-Technological-Singularity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "projects"
+              "title": "2025-05-17-The-Technological-Singularity"
             }
           }
         ],
@@ -180,6 +180,8 @@
   },
   "active": "9bc3f2fd018f85f8",
   "lastOpenFiles": [
+    "ChatGPT Image May 18, 2025 at 02_42_11 AM.png",
+    "_pages/projects.md",
     "_pages/repositories.md",
     "_pages/teaching.md",
     "_pages/profiles.md",
@@ -189,7 +191,6 @@
     "bin/3_project.md",
     "bin/4_project.md",
     "bin/1_project.md",
-    "_pages/projects.md",
     "_posts/2025-05-17-The-Technological-Singularity.md",
     "bin/2015-05-15-images.md",
     "bin/2015-07-15-code.md",
@@ -208,7 +209,6 @@
     "readme_preview/distill.png",
     "readme_preview/dark.png",
     "readme_preview/cv.png",
-    "_pages/cv.md",
     "Untitled.canvas",
     "Untitled",
     "_posts/2024-08-19_adulting_guide",
