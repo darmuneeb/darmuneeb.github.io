@@ -5,8 +5,8 @@ date: 2025-05-17 00:32:13
 description: “You are the universe experiencing itself”  just got real
 tags:
   - tech
-  - computers
   - thoughts
+  - philosophy
 categories: observations
 disqus_comments: true
 ---

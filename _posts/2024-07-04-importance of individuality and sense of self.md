@@ -3,7 +3,10 @@ layout: post
 title: Importance of individuality and sense of self
 date: 2024-07-04 16:40:16
 description: preserving self in a world constantly trying to change you
-tags: self philosophy life
+tags:
+  - philosophy
+  - life
+  - self-help
 categories: Philosophy
 ---
 
