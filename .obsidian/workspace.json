@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bin/7_project.md",
+                "file": "_pages/projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7_project"
+              "title": "projects"
             }
           }
         ],
@@ -180,6 +180,12 @@
   },
   "active": "9bc3f2fd018f85f8",
   "lastOpenFiles": [
+    "_pages/repositories.md",
+    "_pages/teaching.md",
+    "_pages/profiles.md",
+    "_pages/news.md",
+    "bin/publications.md",
+    "bin/7_project.md",
     "bin/3_project.md",
     "bin/4_project.md",
     "bin/1_project.md",
@@ -194,7 +200,6 @@
     "_posts/2024-07-04-importance of individuality and sense of self.md",
     "_posts/2024-08-19-adulting-guide.md",
     "CUSTOMIZE.md",
-    "_pages/repositories.md",
     "_pages/blog.md",
     "bin/2020-09-28-github-metadata.md",
     "README.md",
@@ -203,12 +208,7 @@
     "readme_preview/distill.png",
     "readme_preview/dark.png",
     "readme_preview/cv.png",
-    "_pages/profiles.md",
     "_pages/cv.md",
-    "bin/2023-07-12-post-bibliography.md",
-    "_pages/teaching.md",
-    "_pages/publications.md",
-    "_pages/news.md",
     "Untitled.canvas",
     "Untitled",
     "_posts/2024-08-19_adulting_guide",
