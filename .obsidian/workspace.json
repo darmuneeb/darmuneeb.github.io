@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-05-17-The-Technological-Singularity.md",
+                "file": "_posts/2025-05-18-Intelligence-For-Sale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-17-The-Technological-Singularity"
+              "title": "2025-05-18-Intelligence-For-Sale"
             }
           }
         ]
@@ -166,6 +166,8 @@
   "active": "39920f3460e56d30",
   "lastOpenFiles": [
     "assets/img/technological-singularity.png",
+    "assets/img/intelligence-for-sale.png",
+    "_posts/2025-05-18-Intelligence-For-Sale.md",
     "_posts/2025-05-17-The-Technological-Singularity.md",
     "bin/2015-05-15-images.md",
     "bin/2024-01-27-advanced-images.md",
@@ -190,7 +192,6 @@
     "_posts/2024-07-04-importance of individuality and sense of self.md",
     "_posts/2024-08-19-adulting-guide.md",
     "CUSTOMIZE.md",
-    "_pages/blog.md",
     "readme_preview/distill.png",
     "readme_preview/dark.png",
     "readme_preview/cv.png",
