@@ -9,6 +9,8 @@ tags:
   - philosophy
 categories: observations
 disqus_comments: true
+featured: true
+related_posts: true
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

@@ -10,12 +10,6 @@ tags:
 categories: observations
 disqus_comments: true
 ---
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/intelligence-for-sale.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 It is to be taken for-granted that creator of a thing will always hold an exclusive privilege and that privilege comes by definition. The creators of different eras have been groomed and rewarded by the cultural trends of age.
 
 With changing technology art forms have vanished. Calligraphy and writing was replaced by printers and computers, sculpting by industrial revolution and 3d printing and so on. We now stand at the transition to yet another major change. The era where intelligence will be for sale. Intelligence at the price of sand(literally) and self learning just like that of humans.

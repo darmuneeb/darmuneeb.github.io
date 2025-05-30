@@ -8,6 +8,8 @@ tags:
   - self-help
   - philosophy
 categories: observations
+featured: true
+related_posts: true
 ---
 Failure, flaw, fault, mistake these have been antagonized in all cultures for very obvious reasons. Survival. You can’t be rewarded for putting your life or of those around you in danger. But one has to ask, was it not for the mistakes and failures that snuck in anyway despite cultural guardrails, would humanity have progressed at all. The answer is no. The cultural evolution of humans is as self correcting as physical evolution itself. So just as our genes evolved in response to physical pressures and selection so does human culture evolve as a response to correct or tame its faults. It also means that the failures are not just beneficial but necessary for the culture to evolve.
 

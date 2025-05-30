@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  Islam and Kashmir - The way forward
+title: Islam and Kashmir - The way forward
 date: 2023-02-25 15:06:00
 description: reflections on islam as taught to kashmiris
 tags:
   - religion
   - kashmir
 categories: observations
-featured: true
 ---
 
 I think it is really unfair for institutions(religious or academic) to teach students the political islam before being introduced properly to the philosophy of islam. If we look at history of islam itself it was a gradual struggle of 13 yrs in mecca that laid foundations of islam. I feel the Meccan years were the ones where they fought with their own demons and reformed their nafs to get the gist and core of islamic doctrine. 

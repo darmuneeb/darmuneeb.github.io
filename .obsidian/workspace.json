@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:self",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487.5
+    "width": 316.5
   },
   "right": {
     "id": "daaf6e31e879e0fb",
@@ -165,12 +165,18 @@
   },
   "active": "39920f3460e56d30",
   "lastOpenFiles": [
-    "assets/img/technological-singularity.png",
-    "assets/img/intelligence-for-sale.png",
+    "bin/2024-01-27-advanced-images.md",
     "_posts/2025-05-18-Intelligence-For-Sale.md",
     "_posts/2025-05-17-The-Technological-Singularity.md",
+    "_posts/2025-05-14-the-cultural-and-philosophical-necessity-of-failure.md",
+    "_posts/2023-03-15-physical reality vs abstraction-computers.md",
+    "_posts/2023-02-25-Islam-and-Kashmir.md",
+    "_posts/2024-08-19-adulting-guide.md",
+    "_posts/2024-07-04-importance of individuality and sense of self.md",
+    "_posts/2024-03-10-adjusting-to-reality.md",
+    "assets/img/technological-singularity.png",
+    "assets/img/intelligence-for-sale.png",
     "bin/2015-05-15-images.md",
-    "bin/2024-01-27-advanced-images.md",
     "bin/2023-04-24-videos.md",
     "bin/2023-04-25-audios.md",
     "bin/2020-09-28-github-metadata.md",
@@ -187,11 +193,6 @@
     "bin/1_project.md",
     "bin/2015-07-15-code.md",
     "bin/2022-02-01-redirect.md",
-    "bin/2024-04-29-typograms.md",
-    "_posts/2025-05-14-the-cultural-and-philosophical-necessity-of-failure.md",
-    "_posts/2024-07-04-importance of individuality and sense of self.md",
-    "_posts/2024-08-19-adulting-guide.md",
-    "CUSTOMIZE.md",
     "readme_preview/distill.png",
     "readme_preview/dark.png",
     "readme_preview/cv.png",
@@ -206,7 +207,6 @@
     "readme_preview/projects.png",
     "readme_preview/photos-screenshot.png",
     "readme_preview/people.png",
-    "readme_preview/math.png",
     "readme_preview",
     "purgecss.config.js",
     "package.json",
