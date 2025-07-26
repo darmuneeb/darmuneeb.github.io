@@ -958,7 +958,7 @@ ul.task-list input[type="checkbox"] {
   }
   
   h2 {
-    margin-bottom: 0;
+    margin-bottom: 1.5rem;
     color: var(--global-text-color-light);
   }
 }
@@ -1277,7 +1277,7 @@ footer.sticky-bottom {
 }
 
 .tag-category-list {
-  border-bottom: 1px solid var(--global-divider-color);
+  border-bottom: 1px solid var(--global-text-color);
   text-align: center;
   padding-top: 1rem;
 
