@@ -969,26 +969,34 @@ ul.task-list input[type="checkbox"] {
   
   .nav-link {
     padding: 0.375rem 0.75rem !important;
-    display: inline-block !important;
+    display: inline-flex !important;
+    align-items: center !important;
   }
 }
 
+// Fix search and theme toggle alignment
 .toggle-container {
-  display: flex;
-  align-items: center;
-  margin-left: 0.5rem;
-  padding: 0;
+  display: flex !important;
+  align-items: center !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 #light-toggle,
 #search-toggle {
-  padding: 0.375rem 0.75rem;
-  border: 0;
-  background-color: inherit;
-  color: var(--global-text-color);
-  display: flex;
-  align-items: center;
-  height: auto;
+  padding: 0.375rem 0.75rem !important;
+  border: 0 !important;
+  background-color: inherit !important;
+  color: var(--global-text-color) !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  height: auto !important;
+  min-height: 38px !important; // Same height as nav links
+  
+  .nav-link {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
 
   &:hover {
     color: var(--global-hover-color);

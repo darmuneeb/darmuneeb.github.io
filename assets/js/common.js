@@ -1,4 +1,8 @@
 $(document).ready(function () {
+  // Mark body as loaded to show content smoothly
+  setTimeout(function() {
+    $('body').addClass('loaded');
+  }, 100);
   // add toggle functionality to abstract, award and bibtex buttons
   $("a.abstract").click(function () {
     $(this).parent().parent().find(".abstract.hidden").toggleClass("open");

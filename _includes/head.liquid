@@ -22,9 +22,8 @@
 {% endif %}
 
 <!-- Fonts & Icons -->
-<link defer rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url | bust_file_cache }}">
+<link rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url | bust_file_cache }}">
 <link
-  defer
   rel="stylesheet"
   type="text/css"
   href="{{ site.third_party_libraries.google_fonts.url.fonts }}"
@@ -41,8 +40,39 @@
 
 {% if page.toc and page.toc.sidebar %}
   <!-- Sidebar Table of Contents -->
-  <link defer href="{{ '/assets/css/bootstrap-toc.min.css' | relative_url | bust_file_cache }}" rel="stylesheet">
+  <link href="{{ '/assets/css/bootstrap-toc.min.css' | relative_url | bust_file_cache }}" rel="stylesheet">
 {% endif %}
+
+<!-- Critical styles to prevent FOUC -->
+<style>
+  /* Prevent layout shift during font loading */
+  * {
+    font-display: swap;
+  }
+  
+  /* Ensure navigation is always horizontal */
+  .navbar-nav {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+  }
+  
+  /* Prevent tab content jumps */
+  .tab-content {
+    min-height: 400px;
+  }
+  
+  /* Hide content until styles are loaded */
+  .post-list {
+    opacity: 0;
+    transition: opacity 0.2s ease-in;
+  }
+  
+  /* Show content when styles are ready */
+  body.loaded .post-list {
+    opacity: 1;
+  }
+</style>
 
 <!-- Styles -->
 
