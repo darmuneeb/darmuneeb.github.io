@@ -7,9 +7,9 @@
 
 body {
   font-family: 'Newsreader', Georgia, serif;
-  font-size: 0.875rem;
+  font-size: 1rem;
   font-weight: 300;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 
 h1,
@@ -79,9 +79,9 @@ span,
 strong {
   color: var(--global-text-color);
   font-family: 'Newsreader', Georgia, serif;
-  font-size: 0.875rem;
+  font-size: 1rem;
   font-weight: 300;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 
 p {
@@ -251,9 +251,9 @@ table.table a {
   
   .post-content {
     font-family: 'Newsreader', Georgia, serif;
-    font-size: 0.875rem;
+    font-size: 1rem;
     font-weight: 300;
-    line-height: 1.2;
+    line-height: 1.5;
     color: var(--global-text-color);
     
     // Headings within blog posts - exact joecarlsmith.com specs
@@ -321,27 +321,27 @@ table.table a {
       margin-bottom: 1rem;
     }
     
-    // Paragraphs - match joecarlsmith.com exactly
+    // Paragraphs - improved readability
     p {
       font-family: 'Newsreader', Georgia, serif;
-      font-size: 0.875rem;
+      font-size: 1rem;
       font-weight: 300;
-      line-height: 1.2;
+      line-height: 1.5;
       margin-top: 0;
-      margin-bottom: 20px;
+      margin-bottom: 24px;
       color: var(--global-text-color);
     }
     
     // Lists
     ul, ol {
       font-family: 'Newsreader', Georgia, serif;
-      font-size: 0.875rem;
+      font-size: 1rem;
       font-weight: 300;
-      line-height: 1.2;
-      margin-bottom: 20px;
+      line-height: 1.5;
+      margin-bottom: 24px;
       
       li {
-        margin-bottom: 8px;
+        margin-bottom: 10px;
         color: var(--global-text-color);
       }
     }
@@ -349,11 +349,11 @@ table.table a {
     // Blockquotes
     blockquote {
       font-family: 'Newsreader', Georgia, serif;
-      font-size: 0.875rem;
+      font-size: 1rem;
       font-weight: 300;
       font-style: italic;
-      line-height: 1.2;
-      margin: 20px 0;
+      line-height: 1.5;
+      margin: 24px 0;
       padding-left: 2rem;
       border-left: 3px solid var(--global-theme-color);
       color: var(--global-text-color-light);
@@ -384,15 +384,16 @@ table.table a {
     // Tables
     table {
       font-family: 'Newsreader', Georgia, serif;
-      font-size: 0.875rem;
+      font-size: 1rem;
       font-weight: 300;
+      line-height: 1.5;
     }
     
     // Images
     img {
       max-width: 100%;
       height: auto;
-      margin: 20px 0;
+      margin: 24px 0;
       border-radius: 4px;
     }
   }
@@ -431,12 +432,12 @@ table.table a {
     
     p {
       font-family: 'Newsreader', Georgia, serif;
-      font-size: 0.875rem;
+      font-size: 1rem;
       font-weight: 300;
-      line-height: 1.2;
+      line-height: 1.5;
       color: var(--global-text-color);
       margin-top: 0;
-      margin-bottom: 20px;
+      margin-bottom: 24px;
       
       &.post-meta {
         font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
