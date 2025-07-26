@@ -1,0 +1,16 @@
+---
+layout: post
+title: "On Cultural Identity"
+date: 2020-11-10 15:45:13 
+categories: ['culture', 'Kashmir', 'society', 'tradition', 'Uncategorized']
+---
+
+My attitude towards my Kashmiri identity has changed.
+I used to escape from it, a foolish attempt to distance from it or replace it for its imperfections. Naturally a question as to why I would want to do something like that has to be asked. Now that I think about it I think it stemmed from the confusion that being Kashmiri is akin to being a Muslim. So any doubt I had about my religion used to shake my Kashmiri identity simultaneously. It was the gradual realisation that religion and culture (though they influence each other) are two separate entities. Another reason might be that my attitude towards religion is changed too. (That I will discuss some other time.) 
+The real and gradual change came as I came to know about different cultures and now I am resolved that it was the worst mistake one can do.
+One must understand that cultural differences are just differences and not imperfections that need fixing. 
+ 
+Anything that you resent about the community you grew up in is probably because you are temporarily subjected to change in that particular thing that benefits you at an individual level and you are missing the bigger picture. Society is more than an individual. It operates as a complete entity. Other cultures might benefit you one way but there is always a tradeoff in another part oblivious to you at that particular point of time. One might suggest that why not adopt different culture then if it is all the same. The major downside is that your own culture(that's the one you were born in) has substantial share in the foundations of your identity. Other reason is that the moment you stop being a part of the culture you lose the trust and privilege (most of which you should realise are taken for granted) which is earned just by being part of certain culture. It's that trust which makes one's home a home. In my case for example, it is that ethnic bond (known to flourish within minorities). So once that trust is lost you will feel like an outsider among the same people you felt home with.To anyone outside Kashmir I am always a Kashmiri Muslim, apple nourished and fair skinned. Whether or not I am proud of it doesn't matter to them.  But it matters very much to me and substantially determines my happiness and satisfaction.
+So I might as well be proud of it, for my own sake. Now I must emphasize that being proud of your culture doesn't mean a dogmatic belief the likes of which I need not point out. Rather think of it as a trick you play on your mind, while you know that no culture is perfect in moral sense and as long as there are no moral conflicts it wouldn't hurt to blindly follow the tradition.
+I can go to great lengths about the same but that would just be a commentary on above points(if they make any sense at all).
+“The undignified mania of trying to adapt and conform and assimilate, which happens among many of my social standing, has always been very repulsive to me” Einstein
