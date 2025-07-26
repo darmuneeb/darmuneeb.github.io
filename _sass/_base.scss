@@ -1830,15 +1830,11 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 
-  // Mobile view: single column layout
+  // Mobile view: single column layout - override Bootstrap grid
   @media (max-width: 768px) {
-    .row {
-      display: flex;
-      flex-direction: column;
-    }
-    
-    .col {
-      width: 100%;
+    .row[class*="row-cols-"] > * {
+      flex: 0 0 100% !important;
+      max-width: 100% !important;
       margin-bottom: 1rem;
     }
     
