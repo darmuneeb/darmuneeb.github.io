@@ -105,10 +105,10 @@ pagination:
   <div class="blog-tabs">
     <ul class="nav nav-tabs" id="blogTabs" role="tablist">
       <li class="nav-item" role="presentation">
-        <button class="nav-link active" id="latest-tab" data-bs-toggle="tab" data-bs-target="#latest" type="button" role="tab" aria-controls="latest" aria-selected="true">Latest</button>
+        <a class="nav-link active" id="latest-tab" data-toggle="tab" href="#latest" role="tab" aria-controls="latest" aria-selected="true">Latest</a>
       </li>
       <li class="nav-item" role="presentation">
-        <button class="nav-link" id="popular-tab" data-bs-toggle="tab" data-bs-target="#popular" type="button" role="tab" aria-controls="popular" aria-selected="false">Popular</button>
+        <a class="nav-link" id="popular-tab" data-toggle="tab" href="#popular" role="tab" aria-controls="popular" aria-selected="false">Popular</a>
       </li>
     </ul>
     

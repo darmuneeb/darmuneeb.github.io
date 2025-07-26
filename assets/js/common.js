@@ -3,6 +3,13 @@ $(document).ready(function () {
   setTimeout(function() {
     $('body').addClass('loaded');
   }, 100);
+  
+  // Initialize Bootstrap tabs
+  $('#blogTabs a[data-toggle="tab"]').on('click', function (e) {
+    e.preventDefault();
+    $(this).tab('show');
+  });
+  
   // add toggle functionality to abstract, award and bibtex buttons
   $("a.abstract").click(function () {
     $(this).parent().parent().find(".abstract.hidden").toggleClass("open");
