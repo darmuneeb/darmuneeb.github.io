@@ -6,9 +6,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Inter:wght@100..900&display=swap');
 
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 16px;
-  line-height: 1.6;
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 0.875rem;
+  font-weight: 300;
+  line-height: 1.2;
 }
 
 h1,
@@ -18,8 +19,56 @@ h4,
 h5,
 h6 {
   font-family: 'Newsreader', Georgia, serif;
-  font-weight: 600;
+  font-weight: 300;
   color: var(--global-text-color);
+  line-height: 1.1;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.1;
+  
+  @media (max-width: 768px) {
+    font-size: 3rem;
+  }
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.1;
+  border-bottom: 1px solid rgba(35,34,33,0.5);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+  
+  @media (max-width: 768px) {
+    font-size: 2.5rem;
+  }
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+h5 {
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+h6 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2;
 }
 
 p,
@@ -29,6 +78,15 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 0.875rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 20px;
 }
 
 hr {
@@ -82,9 +140,10 @@ table.table a {
   }
 
   .post-date {
-    font-size: 0.9rem;
+    font-size: 0.75rem;
     color: var(--global-text-color-light);
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 400;
   }
 
   .post-title {
@@ -167,15 +226,17 @@ table.table a {
     }
     
     .post-meta {
-      font-family: 'Inter', sans-serif;
-      font-size: 0.95rem;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-size: 0.75rem;
       color: var(--global-text-color-light);
       margin-bottom: 0.5rem;
+      font-weight: 400;
     }
     
     .post-tags {
-      font-family: 'Inter', sans-serif;
-      font-size: 0.9rem;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-size: 0.75rem;
+      font-weight: 400;
       
       a {
         color: var(--global-theme-color);
@@ -189,46 +250,98 @@ table.table a {
   }
   
   .post-content {
-    font-family: 'Inter', sans-serif;
-    font-size: 1.1rem;
-    line-height: 1.7;
+    font-family: 'Newsreader', Georgia, serif;
+    font-size: 0.875rem;
+    font-weight: 300;
+    line-height: 1.2;
     color: var(--global-text-color);
     
-    // Headings within blog posts
-    h1, h2, h3, h4, h5, h6 {
+    // Headings within blog posts - exact joecarlsmith.com specs
+    h1 {
       font-family: 'Newsreader', Georgia, serif;
-      font-weight: 600;
-      color: var(--global-text-color);
+      font-size: 4rem;
+      font-weight: 300;
+      line-height: 1.1;
       margin-top: 2rem;
       margin-bottom: 1rem;
-      line-height: 1.3;
+      
+      @media (max-width: 768px) {
+        font-size: 3rem;
+      }
     }
     
-    h1 { font-size: 2.2rem; }
-    h2 { font-size: 1.8rem; }
-    h3 { font-size: 1.5rem; }
-    h4 { font-size: 1.3rem; }
-    h5 { font-size: 1.1rem; }
-    h6 { font-size: 1rem; }
-    
-    // Paragraphs
-    p {
-      font-family: 'Inter', sans-serif;
-      font-size: 1.1rem;
-      line-height: 1.7;
+    h2 {
+      font-family: 'Newsreader', Georgia, serif;
+      font-size: 3rem;
+      font-weight: 300;
+      line-height: 1.1;
+      border-bottom: 1px solid rgba(35,34,33,0.5);
+      padding-bottom: 0.5rem;
+      margin-top: 2rem;
       margin-bottom: 1.5rem;
+      
+      @media (max-width: 768px) {
+        font-size: 2.5rem;
+      }
+    }
+    
+    h3 {
+      font-family: 'Newsreader', Georgia, serif;
+      font-size: 1.5rem;
+      font-weight: 400;
+      line-height: 1.2;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+    
+    h4 {
+      font-family: 'Newsreader', Georgia, serif;
+      font-size: 1.25rem;
+      font-weight: 400;
+      line-height: 1.2;
+      margin-top: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    
+    h5 {
+      font-family: 'Newsreader', Georgia, serif;
+      font-size: 1.125rem;
+      font-weight: 400;
+      line-height: 1.2;
+      margin-top: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    
+    h6 {
+      font-family: 'Newsreader', Georgia, serif;
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.2;
+      margin-top: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    
+    // Paragraphs - match joecarlsmith.com exactly
+    p {
+      font-family: 'Newsreader', Georgia, serif;
+      font-size: 0.875rem;
+      font-weight: 300;
+      line-height: 1.2;
+      margin-top: 0;
+      margin-bottom: 20px;
       color: var(--global-text-color);
     }
     
     // Lists
     ul, ol {
-      font-family: 'Inter', sans-serif;
-      font-size: 1.1rem;
-      line-height: 1.7;
-      margin-bottom: 1.5rem;
+      font-family: 'Newsreader', Georgia, serif;
+      font-size: 0.875rem;
+      font-weight: 300;
+      line-height: 1.2;
+      margin-bottom: 20px;
       
       li {
-        margin-bottom: 0.5rem;
+        margin-bottom: 8px;
         color: var(--global-text-color);
       }
     }
@@ -236,10 +349,11 @@ table.table a {
     // Blockquotes
     blockquote {
       font-family: 'Newsreader', Georgia, serif;
-      font-size: 1.2rem;
+      font-size: 0.875rem;
+      font-weight: 300;
       font-style: italic;
-      line-height: 1.6;
-      margin: 2rem 0;
+      line-height: 1.2;
+      margin: 20px 0;
       padding-left: 2rem;
       border-left: 3px solid var(--global-theme-color);
       color: var(--global-text-color-light);
@@ -248,13 +362,13 @@ table.table a {
     // Code blocks
     code {
       font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
-      font-size: 0.9rem;
+      font-size: 0.75rem;
     }
     
     pre {
       font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
-      font-size: 0.9rem;
-      line-height: 1.4;
+      font-size: 0.75rem;
+      line-height: 1.2;
     }
     
     // Links within content
@@ -269,15 +383,16 @@ table.table a {
     
     // Tables
     table {
-      font-family: 'Inter', sans-serif;
-      font-size: 1rem;
+      font-family: 'Newsreader', Georgia, serif;
+      font-size: 0.875rem;
+      font-weight: 300;
     }
     
     // Images
     img {
       max-width: 100%;
       height: auto;
-      margin: 1.5rem 0;
+      margin: 20px 0;
       border-radius: 4px;
     }
   }
@@ -315,19 +430,26 @@ table.table a {
     }
     
     p {
-      font-family: 'Inter', sans-serif;
-      font-size: 1.1rem;
-      line-height: 1.6;
+      font-family: 'Newsreader', Georgia, serif;
+      font-size: 0.875rem;
+      font-weight: 300;
+      line-height: 1.2;
       color: var(--global-text-color);
+      margin-top: 0;
+      margin-bottom: 20px;
       
       &.post-meta {
-        font-size: 0.95rem;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-size: 0.75rem;
+        font-weight: 400;
         color: var(--global-text-color-light);
         margin-bottom: 0.5rem;
       }
       
       &.post-tags {
-        font-size: 0.9rem;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-size: 0.75rem;
+        font-weight: 400;
         
         a {
           color: var(--global-theme-color);
@@ -354,11 +476,11 @@ table.table a {
   }
   
   h2 {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     font-weight: 400;
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: var(--global-text-color-light);
-    line-height: 1.6;
+    line-height: 1.2;
   }
 }
 
