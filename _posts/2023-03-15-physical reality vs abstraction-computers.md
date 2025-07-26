@@ -6,7 +6,7 @@ description: computers and abstraction levels
 tags:
   - computing
   - computers
-categories: computers
+categories: tech
 rank: 6
 ---
 

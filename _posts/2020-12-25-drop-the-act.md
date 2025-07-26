@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Drop The Act"
-date: 2020-12-25 20:51:28 
+title: Drop The Act
+date: 2020-12-25 20:51:28
 rank: 4
-categories: ['Uncategorized']
+categories:
+  - essay
 ---
 
 One thing about me, that I have reluctantly given up fighting, is that I can't be inspired for too long. I guess many people feel that too. But I take a slightly different path. Not only do those bouts of motivation fade away, I hate to restore them altogether.

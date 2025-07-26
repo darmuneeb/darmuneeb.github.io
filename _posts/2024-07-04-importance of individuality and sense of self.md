@@ -7,7 +7,7 @@ tags:
   - philosophy
   - life
   - self-help
-categories: Philosophy
+categories: essay
 ---
 
 **The Elusive Self: An Exploration of Existence and Identity**

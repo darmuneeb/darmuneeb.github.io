@@ -7,7 +7,9 @@ tags:
   - life
   - self-help
   - philosophy
-categories: observations
+categories:
+  - culture
+  - essay
 featured: true
 related_posts: true
 rank: 3

@@ -6,7 +6,7 @@ description: reflections on islam as taught to kashmiris
 tags:
   - religion
   - kashmir
-categories: observations
+categories: culture
 rank: 2
 ---
 

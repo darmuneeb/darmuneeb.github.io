@@ -7,7 +7,7 @@ tags:
   - realism
   - random
   - thoughts
-categories: random
+categories: essay
 related_posts: true
 ---
 

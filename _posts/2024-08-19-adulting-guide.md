@@ -7,7 +7,7 @@ tags:
   - life
   - adulting
   - self-help
-categories: observations
+categories: personal
 rank: 4
 ---
 

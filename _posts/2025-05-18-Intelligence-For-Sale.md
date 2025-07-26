@@ -7,7 +7,8 @@ tags:
   - tech
   - thoughts
   - philosophy
-categories: observations
+categories:
+  - tech
 disqus_comments: true
 rank: 1
 ---

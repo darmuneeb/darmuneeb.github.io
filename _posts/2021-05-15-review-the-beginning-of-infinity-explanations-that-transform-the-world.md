@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Review: The Beginning of Infinity: Explanations That Transform the World"
-date: 2021-05-15 09:14:49 
-categories: ['Book Review', 'Uncategorized']
+date: 2021-05-15 09:14:49
+categories:
+  - reviews
 ---
 
 [![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311705051l/10483171._SX98_.jpg)](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)[The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) by [David Deutsch](https://www.goodreads.com/author/show/103190.David_Deutsch)

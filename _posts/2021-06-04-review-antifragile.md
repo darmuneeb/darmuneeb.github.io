@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Review-Antifragile"
-date: 2021-06-04 04:47:16 
-categories: ['Book Review', 'Books']
+title: Review-Antifragile
+date: 2021-06-04 04:47:16
+categories:
+  - reviews
 ---
 
 [![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352422827l/13530973._SX98_.jpg)](https://www.goodreads.com/book/show/13530973-antifragile)[Antifragile: Things That Gain from Disorder](https://www.goodreads.com/book/show/13530973-antifragile) by [Nassim Nicholas Taleb](https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb)

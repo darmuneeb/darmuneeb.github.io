@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Review-Steve Jobs by Walter Isaacson"
-date: 2021-01-27 04:53:21 
-categories: ['Book Review', 'Uncategorized']
+title: Review-Steve Jobs by Walter Isaacson
+date: 2021-01-27 04:53:21
+categories:
+  - reviews
 ---
 
 [![Steve Jobs](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511288482l/11084145._SX98_.jpg)](https://www.goodreads.com/book/show/11084145)
