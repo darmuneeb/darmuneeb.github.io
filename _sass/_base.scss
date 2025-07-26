@@ -1006,9 +1006,9 @@ ul.task-list input[type="checkbox"] {
 // Ultra compact blog post listings for landing page
 .post-list {
   li {
-    margin-bottom: 0.5rem !important; // Super tight spacing
-    padding-bottom: 0.5rem;
-    border-bottom: 1px solid var(--global-divider-color);
+    margin-bottom: 0.25rem !important; // Very tight spacing between entries
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid rgba(var(--global-divider-color-rgb), 0.3); // Lighter separator
     
     &:last-child {
       border-bottom: none;
@@ -1016,33 +1016,32 @@ ul.task-list input[type="checkbox"] {
     }
     
     h3 {
-      margin-bottom: 0.15rem !important; // Extremely tight title spacing
-      line-height: 1.1;
-      font-size: 1.1rem; // Smaller titles
+      margin-bottom: 0.3rem !important; // Better spacing between title and description
+      margin-top: 0.2rem !important; // Small space after meta
+      line-height: 1.2;
+      font-size: 1.3rem !important; // Restore normal title size
+      font-weight: 400; // Slightly bolder title
     }
     
     p {
       margin-bottom: 0.1rem !important; // Minimal paragraph spacing
       line-height: 1.3; // Very tight line height
       
-      &:not(.post-meta):not(.post-tags) {
-        font-size: 0.9rem; // Smaller description text
-        margin-bottom: 0.15rem !important;
+      &:not(.post-meta) {
+        font-size: 0.95rem; // Normal description text
+        margin-bottom: 0.2rem !important;
+        line-height: 1.5; // Better readability
       }
       
       &.post-meta {
         font-size: 0.8rem;
-        margin-bottom: 0.1rem !important;
+        margin-bottom: 0.05rem !important; // Tight spacing below meta
         color: var(--global-text-color-light);
+        order: -1; // Ensure it appears first
       }
       
       &.post-tags {
-        margin-bottom: 0 !important;
-        font-size: 0.8rem;
-        
-        a {
-          font-size: 0.75rem;
-        }
+        display: none; // Hide tags completely in listing view
       }
     }
   }
