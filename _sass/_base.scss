@@ -995,11 +995,11 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Very compact blog post listings for landing page
+// Ultra compact blog post listings for landing page
 .post-list {
   li {
-    margin-bottom: 1rem !important; // Even more compact
-    padding-bottom: 0.75rem;
+    margin-bottom: 0.5rem !important; // Super tight spacing
+    padding-bottom: 0.5rem;
     border-bottom: 1px solid var(--global-divider-color);
     
     &:last-child {
@@ -1008,31 +1008,32 @@ ul.task-list input[type="checkbox"] {
     }
     
     h3 {
-      margin-bottom: 0.25rem !important; // Very tight title spacing
-      line-height: 1.2;
-      font-size: 1.25rem; // Slightly smaller titles
+      margin-bottom: 0.15rem !important; // Extremely tight title spacing
+      line-height: 1.1;
+      font-size: 1.1rem; // Smaller titles
     }
     
     p {
-      margin-bottom: 0.25rem !important; // Minimal paragraph spacing
-      line-height: 1.4; // Tighter line height
+      margin-bottom: 0.1rem !important; // Minimal paragraph spacing
+      line-height: 1.3; // Very tight line height
       
       &:not(.post-meta):not(.post-tags) {
-        font-size: 0.95rem; // Smaller description text
+        font-size: 0.9rem; // Smaller description text
+        margin-bottom: 0.15rem !important;
       }
       
       &.post-meta {
-        font-size: 0.85rem;
-        margin-bottom: 0.15rem !important;
+        font-size: 0.8rem;
+        margin-bottom: 0.1rem !important;
         color: var(--global-text-color-light);
       }
       
       &.post-tags {
         margin-bottom: 0 !important;
-        font-size: 0.85rem;
+        font-size: 0.8rem;
         
         a {
-          font-size: 0.8rem;
+          font-size: 0.75rem;
         }
       }
     }
