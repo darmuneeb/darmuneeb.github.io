@@ -1102,13 +1102,13 @@ ul.task-list input[type="checkbox"] {
         margin-bottom: 0.05rem !important; // Tight spacing below meta
         color: var(--global-text-color-light);
         order: -1; // Ensure it appears first
-        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-        font-weight: 400;
+        font-family: 'Newsreader', Georgia, serif;
+        font-weight: 300;
         
         a {
           color: var(--global-theme-color);
           text-decoration: none;
-          font-weight: 500;
+          font-weight: 400;
           
           &:hover {
             text-decoration: underline;
