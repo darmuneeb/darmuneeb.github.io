@@ -4,11 +4,15 @@
  ******************************************************************************/
 
 // Colors
+// Background colors to match joecarlsmith.com
+$background-color-light: #faf8f8 !default;
+$background-color-alt: #f1efef !default;
+
 $red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;
 $orange-color: #f29105 !default;
-$blue-color: #0076df !default;
-$blue-color-dark: #00369f !default;
+$blue-color: #3872e9 !default;
+$blue-color-dark: #2854b8 !default;
 $cyan-color: #2698ba !default;
 $light-cyan-color: lighten($cyan-color, 25%);
 $green-color: #00ab37 !default;
