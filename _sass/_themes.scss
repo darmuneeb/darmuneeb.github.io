@@ -36,22 +36,22 @@
   --global-danger-block-title: #c00;
 
   #light-toggle-system {
-    display: flex;
+    display: flex !important;
   }
 
   #light-toggle-dark {
-    display: none;
+    display: none !important;
   }
 
   #light-toggle-light {
-    display: none;
+    display: none !important;
   }
 
   .repo-img-light {
     display: block;
   }
   .repo-img-dark {
-    display: none;
+    display: none !important;
   }
 
   #back-to-top {
@@ -98,7 +98,7 @@ html[data-theme="dark"] {
   --global-danger-block-title: #c00;
 
   .repo-img-light {
-    display: none;
+    display: none !important;
   }
   .repo-img-dark {
     display: block;
@@ -107,15 +107,15 @@ html[data-theme="dark"] {
 
 html[data-theme-setting="dark"] {
   #light-toggle-system {
-    display: none;
+    display: none !important;
   }
 
   #light-toggle-dark {
-    display: flex;
+    display: flex !important;
   }
 
   #light-toggle-light {
-    display: none;
+    display: none !important;
   }
 
   #back-to-top {
@@ -126,14 +126,14 @@ html[data-theme-setting="dark"] {
 
 html[data-theme-setting="light"] {
   #light-toggle-system {
-    display: none;
+    display: none !important;
   }
 
   #light-toggle-dark {
-    display: none;
+    display: none !important;
   }
 
   #light-toggle-light {
-    display: flex;
+    display: flex !important;
   }
 }
