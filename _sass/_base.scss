@@ -1057,6 +1057,9 @@ ul.task-list input[type="checkbox"] {
             i {
               font-size: 1.1rem;
               vertical-align: middle;
+              display: flex;
+              align-items: center;
+              justify-content: center;
             }
             
             &:hover {
