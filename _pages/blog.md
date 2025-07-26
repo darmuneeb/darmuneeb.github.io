@@ -75,7 +75,7 @@ pagination:
 {% endif %}
 
 {% if site.display_tags or site.display_categories %}
-<div class="tags-categories-section" style="margin: 3rem 0 2rem 0;">
+<div class="tags-categories-section">
 <div class="tag-category-list">
   <ul class="p-0 m-0">
     {% for tag in site.display_tags %}
