@@ -914,11 +914,11 @@ ul.task-list input[type="checkbox"] {
 
 // Blog tabs styling
 .blog-tabs {
-  margin: 2rem 0;
+  margin: 3rem 0;
   
   .nav-tabs {
     border-bottom: 2px solid var(--global-divider-color);
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
     
     .nav-link {
       color: var(--global-text-color);
@@ -1256,7 +1256,6 @@ footer.sticky-bottom {
 // Blog
 
 .header-bar {
-  border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
   padding-top: 2rem;
   padding-bottom: 3rem;
