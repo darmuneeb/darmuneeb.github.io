@@ -38,7 +38,7 @@ h2 {
   font-size: 3rem;
   font-weight: 300;
   line-height: 1.1;
-  border-bottom: 1px solid rgba(35,34,33,0.5);
+  border-bottom: 1px solid var(--global-solid-divider-color);
   padding-bottom: 0.5rem;
   margin-bottom: 1.5rem;
   
@@ -281,7 +281,7 @@ table.table a {
       font-size: 3rem;
       font-weight: 300;
       line-height: 1.1;
-      border-bottom: 1px solid rgba(35,34,33,0.5);
+      border-bottom: 1px solid var(--global-solid-divider-color);
       padding-bottom: 0.5rem;
       margin-top: 2rem;
       margin-bottom: 1.5rem;
@@ -1797,6 +1797,10 @@ nav[data-toggle="toc"] {
 }
 
 .featured-posts {
+  .card {
+    border-bottom: 1px solid var(--global-solid-divider-color);
+  }
+  
   a {
     color: var(--global-text-color-light);
     text-decoration: none;
@@ -1825,6 +1829,12 @@ nav[data-toggle="toc"] {
 
   // Mobile view: display as list matching regular blog listings
   @media (max-width: 768px) {
+    &.container {
+      max-width: none;
+      padding-left: 0;
+      padding-right: 0;
+    }
+    
     .row {
       display: block;
     }
@@ -1849,10 +1859,11 @@ nav[data-toggle="toc"] {
     .card {
       background: none !important;
       border: none !important;
+      border-bottom: 1px solid var(--global-solid-divider-color) !important;
       box-shadow: none !important;
       
       .card-body {
-        padding: 0 !important;
+        padding: 0 1rem !important;
         
         .float-right {
           display: none;
