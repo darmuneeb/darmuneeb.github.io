@@ -881,6 +881,64 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Mobile navigation - always show menu items
+@media (max-width: 575.98px) {
+  .navbar-collapse {
+    display: flex !important;
+  }
+  
+  .navbar-nav {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    
+    .nav-item {
+      margin-left: 0.5rem;
+    }
+    
+    .nav-link {
+      padding: 0.25rem 0.5rem;
+      font-size: 0.9rem;
+    }
+  }
+}
+
+// Blog tabs styling
+.blog-tabs {
+  margin: 2rem 0;
+  
+  .nav-tabs {
+    border-bottom: 2px solid var(--global-divider-color);
+    margin-bottom: 2rem;
+    
+    .nav-link {
+      color: var(--global-text-color);
+      border: none;
+      padding: 0.75rem 1.5rem;
+      font-weight: 500;
+      border-radius: 0;
+      border-bottom: 3px solid transparent;
+      transition: all 0.3s ease;
+      
+      &:hover {
+        color: var(--global-theme-color);
+        border-bottom-color: var(--global-theme-color);
+        background-color: transparent;
+      }
+      
+      &.active {
+        color: var(--global-theme-color);
+        background-color: transparent;
+        border-bottom-color: var(--global-theme-color);
+      }
+    }
+  }
+  
+  .tab-content {
+    min-height: 400px;
+  }
+}
+
 #light-toggle,
 #search-toggle {
   padding: 0;
