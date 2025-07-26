@@ -165,6 +165,8 @@
   },
   "active": "1bc393de3e918332",
   "lastOpenFiles": [
+    "_posts/2025-05-17-The-Technological-Singularity.md.tmp.86325.1753560310374",
+    "_posts/2020-11-10-on-cultural-identity.md.tmp.86325.1753560287482",
     "_posts/2019-04-19-life-at-iitr.md",
     "_posts/2020-11-27-life-at-iitr-part-ⅱ.md",
     "_posts/2020-10-27-religious-indoctrination.md",
@@ -192,7 +194,6 @@
     "_posts/2020-12-25-drop-the-act.md",
     "_posts/2024-07-04-importance of individuality and sense of self.md",
     "extract_wordpress_posts.py",
-    "bin/2024-01-27-advanced-images.md",
     "assets/img/technological-singularity.png",
     "assets/img/intelligence-for-sale.png",
     "readme_preview/distill.png",
@@ -210,7 +211,6 @@
     "readme_preview/photos-screenshot.png",
     "readme_preview/people.png",
     "readme_preview",
-    "purgecss.config.js",
-    "package.json"
+    "purgecss.config.js"
   ]
 }

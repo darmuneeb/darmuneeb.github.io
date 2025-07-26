@@ -2,12 +2,7 @@
 layout: post
 title: On Cultural Identity
 date: 2020-11-10 15:45:13
-categories:
-  - culture
-  - Kashmir
-  - society
-  - tradition
-  - Uncategorized
+categories: [culture]
 rank: 8
 ---
 

@@ -7,7 +7,7 @@ tags:
   - tech
   - thoughts
   - philosophy
-categories: observations
+categories: [tech]
 disqus_comments: true
 featured: true
 related_posts: true

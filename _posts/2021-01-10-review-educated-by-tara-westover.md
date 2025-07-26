@@ -2,7 +2,7 @@
 layout: post
 title: "Review-Educated by Tara Westover"
 date: 2021-01-10 13:44:14 
-categories: ['Book Review', 'Educated', 'Uncategorized']
+categories: [reviews]
 ---
 
 [![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609778147l/35133922._SX98_.jpg)](https://www.goodreads.com/book/show/35133922)

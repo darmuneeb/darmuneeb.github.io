@@ -2,8 +2,7 @@
 layout: post
 title: Religious Indoctrination
 date: 2020-10-27 09:17:00
-categories:
-  - Uncategorized
+categories: [essay]
 rank: 6
 ---
 

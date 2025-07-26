@@ -2,8 +2,7 @@
 layout: post
 title: Life at IITR
 date: 2019-04-19 08:10:56
-categories:
-  - Journal
+categories: [personal]
 rank: 6
 tags:
   - IIT

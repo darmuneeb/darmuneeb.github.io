@@ -2,7 +2,7 @@
 layout: post
 title: "Review: A Tale of Two Cities"
 date: 2020-07-25 05:09:00 
-categories: ['Book Review', 'Uncategorized']
+categories: [reviews]
 ---
 
 [![A Tale of Two Cities](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1296308131l/62200._SX98_.jpg)](https://www.goodreads.com/book/show/62200)
