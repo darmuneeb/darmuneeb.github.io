@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "A teacher to his student"
-date: 2017-11-09 02:50:35 
-categories: ['Uncategorized']
+title: A teacher to his student
+date: 2017-11-09 02:50:35
+categories:
+  - Uncategorized
+rank: 7
 ---
 
 True, we met.

@@ -1,8 +1,14 @@
 ---
 layout: post
-title: "Life at IITR"
-date: 2019-04-19 08:10:56 
-categories: ['Uncategorized']
+title: Life at IITR
+date: 2019-04-19 08:10:56
+categories:
+  - Journal
+rank: 6
+tags:
+  - IIT
+  - Career
+  - College
 ---
 
 ![Image result for iitr](https://akm-img-a-in.tosshub.com/indiatoday/iit-roorkee-647_120917112313.jpg?fX51D.JuDTQvph_dALyUV0AYo3tWQ8if)

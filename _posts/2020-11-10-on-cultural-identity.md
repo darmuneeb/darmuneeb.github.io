@@ -1,8 +1,14 @@
 ---
 layout: post
-title: "On Cultural Identity"
-date: 2020-11-10 15:45:13 
-categories: ['culture', 'Kashmir', 'society', 'tradition', 'Uncategorized']
+title: On Cultural Identity
+date: 2020-11-10 15:45:13
+categories:
+  - culture
+  - Kashmir
+  - society
+  - tradition
+  - Uncategorized
+rank: 8
 ---
 
 My attitude towards my Kashmiri identity has changed.

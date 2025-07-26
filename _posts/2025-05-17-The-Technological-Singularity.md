@@ -11,6 +11,7 @@ categories: observations
 disqus_comments: true
 featured: true
 related_posts: true
+rank: 2
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

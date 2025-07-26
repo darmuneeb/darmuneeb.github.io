@@ -1,8 +1,12 @@
 ---
 layout: post
-title: "Placement Diaries"
-date: 2020-12-16 10:30:13 
-categories: ['campus', 'IIT', 'Journal', 'Placements', 'Uncategorized']
+title: Placement Diaries
+date: 2020-12-16 10:30:13
+rank: 5
+tags:
+  - IIT
+  - College
+  - Career
 ---
 
 I am still not placed after two weeks and it is a real bummer. Eye-opener of sorts. I can't say that there is a silver lining here but I am forced to think in retrospect. What went wrong, what and where I lacked.

@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Life At IITR-Part Ⅱ"
-date: 2020-11-27 09:28:00 
-categories: ['campus', 'College', 'IIT', 'IIT Roorkee', 'Uncategorized']
+title: Life At IITR-Part Ⅱ
+date: 2020-11-27 09:28:00
+rank: 6
+tags:
+  - IIT
+  - College
 ---
 
 Almost two years back I wrote a [rant about life at IIT](https://reitheta.wordpress.com/2019/04/19/life-at-iitr/)[-](https://reitheta.wordpress.com/2019/04/19/life-at-iitr/)[R](https://reitheta.wordpress.com/2019/04/19/life-at-iitr/). I accidentally stumbled upon it a few days ago and I couldn't believe I wrote it. In my defence, I was going through a mid-IIT crisis(A term I like to throw around as an explanation to the sudden unleashing of the beast as observed in most students somewhere around the end of the second year). So I decided to write a new post and here we are.

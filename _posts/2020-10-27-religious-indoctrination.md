@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Religious Indoctrination"
-date: 2020-10-27 09:17:00 
-categories: ['Uncategorized']
+title: Religious Indoctrination
+date: 2020-10-27 09:17:00
+categories:
+  - Uncategorized
+rank: 6
 ---
 
 We often overlook how much damage indoctrination can do to the young and growing minds. And of course religious indoctrination is one of those major issues not because there is something inherently wrong in religion any more than other replaceable ideologies but because it snatches away the freedom of a person that God has trusted every human being with.

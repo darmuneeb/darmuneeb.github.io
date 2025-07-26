@@ -8,6 +8,7 @@ tags:
   - adulting
   - self-help
 categories: observations
+rank: 4
 ---
 
 1. Don’t be a bitch. Don’t cry foul. Play as others play.  Shed aside your victim mentality. You don’t have it as worse as you make it and life is not a bed of roses for anyone.

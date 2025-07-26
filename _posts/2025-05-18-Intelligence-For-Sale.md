@@ -9,6 +9,7 @@ tags:
   - philosophy
 categories: observations
 disqus_comments: true
+rank: 1
 ---
 It is to be taken for-granted that creator of a thing will always hold an exclusive privilege and that privilege comes by definition. The creators of different eras have been groomed and rewarded by the cultural trends of age.
 

@@ -3,8 +3,11 @@ layout: post
 title: Physical reality vs abstraction Computers
 date: 2023-03-15 16:40:16
 description: computers and abstraction levels
-tags: computing computers
+tags:
+  - computing
+  - computers
 categories: computers
+rank: 6
 ---
 
 The history of computing is a long story of adding abstractions on top of abstractions to the point where reality(if there exists such a thing) is unimaginable and unintuitive.
