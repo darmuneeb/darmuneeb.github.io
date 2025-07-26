@@ -1257,10 +1257,13 @@ footer.sticky-bottom {
   }
 }
 
-.tag-category-list {
+.tags-categories-section {
   border-top: 1px solid var(--global-solid-divider-color);
+  padding-top: 8px;
+}
+
+.tag-category-list {
   text-align: center;
-  padding-top: 1rem;
 
   ul {
     justify-content: center;
