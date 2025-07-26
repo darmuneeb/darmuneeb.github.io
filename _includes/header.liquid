@@ -24,8 +24,9 @@
         <!-- Social Icons -->
         <div class="navbar-brand social">{% include social.liquid %}</div>
       {% endif %}
-      <div class="navbar-collapse text-right" id="navbarNav">
-        <ul class="navbar-nav ml-auto flex-nowrap">
+      <div class="navbar-collapse" id="navbarNav">
+        <!-- Left side: Blog and About -->
+        <ul class="navbar-nav me-auto">
           {% for page in site.pages %}
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}
@@ -92,6 +93,10 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+        </ul>
+        
+        <!-- Right side: Search and Theme -->
+        <ul class="navbar-nav ms-auto flex-nowrap">
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
