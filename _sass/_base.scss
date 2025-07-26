@@ -1075,9 +1075,9 @@ ul.task-list input[type="checkbox"] {
 // Ultra compact blog post listings for landing page
 .post-list {
   li {
-    margin-bottom: 0.25rem !important; // Very tight spacing between entries
-    padding-bottom: 0.25rem;
-    border-bottom: 1px solid rgba(var(--global-divider-color-rgb), 0.3); // Lighter separator
+    margin-bottom: 0.15rem !important; // Ultra tight spacing between entries
+    padding-bottom: 0.15rem;
+    border-bottom: 1px solid rgba(var(--global-divider-color-rgb), 0.2); // Even lighter separator
     
     &:last-child {
       border-bottom: none;
