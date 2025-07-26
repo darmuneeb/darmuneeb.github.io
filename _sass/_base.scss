@@ -939,12 +939,36 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Center blog header
+.header-bar {
+  text-align: center;
+  margin-bottom: 2rem;
+  
+  h1 {
+    margin-bottom: 0.5rem;
+  }
+  
+  h2 {
+    margin-bottom: 0;
+    color: var(--global-text-color-light);
+  }
+}
+
+// Fix theme toggle alignment
+.toggle-container {
+  display: flex;
+  align-items: center;
+  margin-left: 0.5rem;
+}
+
 #light-toggle,
 #search-toggle {
-  padding: 0;
+  padding: 0.375rem 0.75rem;
   border: 0;
   background-color: inherit;
   color: var(--global-text-color);
+  display: flex;
+  align-items: center;
 
   &:hover {
     color: var(--global-hover-color);
