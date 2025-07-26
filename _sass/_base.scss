@@ -1077,11 +1077,15 @@ ul.task-list input[type="checkbox"] {
 .post-list {
   li {
     margin-bottom: 0.15rem !important; // Ultra tight spacing between entries
-    padding-bottom: 0.15rem;
+    padding: 8px 0;
     border-bottom: 1px solid rgba(var(--global-divider-color-rgb), 0.2); // Even lighter separator
     
+    &:first-child {
+      border-top: 1px solid rgba(var(--global-divider-color-rgb), 0.2);
+    }
+    
     &:last-child {
-      border-bottom: none;
+      border-bottom: 1px solid rgba(var(--global-divider-color-rgb), 0.2) !important;
       margin-bottom: 0 !important;
     }
     
@@ -1264,7 +1268,7 @@ footer.sticky-bottom {
 .header-bar {
   text-align: center;
   padding-top: 2rem;
-  padding-bottom: 3rem;
+  padding-bottom: 4rem;
 
   h1 {
     color: var(--global-theme-color);
