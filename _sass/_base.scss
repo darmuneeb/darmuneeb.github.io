@@ -895,6 +895,7 @@ ul.task-list input[type="checkbox"] {
 // Blog tabs styling
 .blog-tabs {
   margin: 0;
+  margin-top: 10px;
   
   .nav-tabs {
     border-bottom: none;
@@ -1798,7 +1799,7 @@ nav[data-toggle="toc"] {
 
 .container.featured-posts {
   border-bottom: 1px solid var(--global-solid-divider-color);
-  padding-bottom: 2rem;
+  padding-bottom: 8px;
 }
 
 .featured-posts {
@@ -1829,9 +1830,21 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 
-  // Mobile view: hide featured posts completely
+  // Mobile view: single column layout
   @media (max-width: 768px) {
-    display: none;
+    .row {
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .col {
+      width: 100%;
+      margin-bottom: 1rem;
+    }
+    
+    .card {
+      margin-bottom: 0;
+    }
   }
 }
 
