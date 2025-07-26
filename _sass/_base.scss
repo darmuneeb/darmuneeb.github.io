@@ -477,11 +477,13 @@ table.table a {
   }
   
   h2 {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    font-weight: 400;
-    font-size: 1rem;
-    color: var(--global-text-color-light);
-    line-height: 1.2;
+    font-family: 'Newsreader', Georgia, serif;
+    font-weight: 300;
+    font-size: 1.125rem;
+    color: var(--global-text-color);
+    line-height: 1.5;
+    margin-top: 1rem;
+    margin-bottom: 24px;
   }
 }
 
