@@ -137,7 +137,7 @@ pagination:
 {% endif %}
       <p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;
-        {{ post.date | date: '%B %d, %Y' }}
+        {{ post.date | date: '%B %d, ' }}<a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">{{ year }}</a>
         {% if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
         {% endif %}
@@ -225,7 +225,7 @@ pagination:
         {% endif %}
         <p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;
-        {{ post.date | date: '%B %d, %Y' }}
+        {{ post.date | date: '%B %d, ' }}<a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">{{ year }}</a>
         {% if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
         {% endif %}
