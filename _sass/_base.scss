@@ -1049,12 +1049,17 @@ ul.task-list input[type="checkbox"] {
             padding: 0.5rem 0.75rem;
             display: flex;
             align-items: center;
+            justify-content: center;
             height: 38px;
             color: var(--global-text-color);
+            min-width: 38px;
             
             i {
               font-size: 1.1rem;
               vertical-align: middle;
+              display: flex;
+              align-items: center;
+              justify-content: center;
             }
             
             &:hover {
