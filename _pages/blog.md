@@ -32,42 +32,50 @@ pagination:
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
-<div class="featured-posts-section">
-<h4 style="margin-bottom: 1rem; font-weight: 300;">Featured Posts</h4>
-<ul class="post-list">
+<br>
+
+<div class="container featured-posts">
+{% assign is_even = featured_posts.size | modulo: 2 %}
+<div class="row row-cols-{% if featured_posts.size <= 2 or is_even == 0 %}2{% else %}3{% endif %}">
 {% for post in featured_posts %}
-  {% if post.external_source == blank %}
-    {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
-  {% else %}
-    {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
-  {% endif %}
-  
-  <li>
-    <div style="display: flex; align-items: center; gap: 0.5rem;">
-      <p class="post-meta" style="margin: 0;">
-        {{ read_time }} min read &nbsp; &middot; &nbsp;
-        {{ post.date | date: '%B %d, %Y' }}
-        {% if post.external_source %}
-        &nbsp; &middot; &nbsp; {{ post.external_source }}
-        {% endif %}
-      </p>
-      <i class="fa-solid fa-thumbtack fa-xs" style="color: var(--global-theme-color);"></i>
-    </div>
-    <h3>
-      <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h3>
-    <p>{{ post.description }}</p>
-  </li>
-{% endfor %}
-</ul>
+<div class="col mb-4">
+<a href="{{ post.url | relative_url }}">
+<div class="card hoverable">
+<div class="row g-0">
+<div class="col-md-12">
+<div class="card-body">
+<div class="float-right">
+<i class="fa-solid fa-thumbtack fa-xs"></i>
 </div>
-<hr style="margin: 2rem 0;">
+<h3 class="card-title text-lowercase">{{ post.title }}</h3>
+<p class="card-text">{{ post.description }}</p>
+
+                    {% if post.external_source == blank %}
+                      {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
+                    {% else %}
+                      {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
+                    {% endif %}
+                    {% assign year = post.date | date: "%Y" %}
+
+                    <p class="post-meta">
+                      {{ read_time }} min read &nbsp; &middot; &nbsp;
+                      <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
+                        <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+      </div>
+    </div>
 
 {% endif %}
 
 {% if site.display_tags or site.display_categories %}
-<div class="tags-categories-section">
-<h4 style="margin-bottom: 1rem; font-weight: 300;">Browse by Topic</h4>
+<div class="tags-categories-section" style="margin: 3rem 0 2rem 0;">
 <div class="tag-category-list">
   <ul class="p-0 m-0">
     {% for tag in site.display_tags %}
@@ -92,7 +100,6 @@ pagination:
   </ul>
 </div>
 </div>
-<hr style="margin: 2rem 0;">
 {% endif %}
 
   <!-- Blog Post Tabs -->
