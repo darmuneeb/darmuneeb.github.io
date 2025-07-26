@@ -1796,9 +1796,12 @@ nav[data-toggle="toc"] {
   }
 }
 
-.featured-posts {
+.container.featured-posts {
   border-bottom: 1px solid var(--global-solid-divider-color);
   padding-bottom: 2rem;
+}
+
+.featured-posts {
   
   a {
     color: var(--global-text-color-light);
