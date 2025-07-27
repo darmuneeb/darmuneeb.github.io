@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "assets/img/blog_mascot.png"
+                "file": "assets/img/prof_pic.jpg"
               },
               "icon": "lucide-image",
-              "title": "blog_mascot"
+              "title": "prof_pic"
             }
           }
         ]
@@ -163,10 +163,10 @@
   },
   "active": "1bc393de3e918332",
   "lastOpenFiles": [
+    "assets/img/blog_mascot.png",
     "assets/img/prof_pic.jpg",
     "assets/img/prof_pic_color.png",
     "assets/img/intelligence-for-sale.png",
-    "assets/img/blog_mascot.png",
     "assets/img/1.jpg",
     "assets/img/2.jpg",
     "assets/img/4.jpg",

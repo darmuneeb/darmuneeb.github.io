@@ -269,11 +269,6 @@ pagination:
 </div>
 {% endif %}
 
-<!-- Decorative bottom line with robot mascot -->
-<div class="decorative-bottom">
-  <img src="{{ '/assets/img/blog_mascot.png' | relative_url }}" alt="Blog mascot" class="mascot-image">
-</div>
-
 <div style="text-align: right; margin-top: 20px;">
   <span class="simple-copyright">© {{ site.time | date: '%Y' }} Muneeb Ahmad Dar</span>
 </div>
