@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a62a457929ef998d",
+        "id": "4f360617a7c468fc",
         "type": "tabs",
         "children": [
           {
-            "id": "1bc393de3e918332",
+            "id": "6d680ad352ab9b9a",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -161,10 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bc393de3e918332",
+  "active": "6d680ad352ab9b9a",
   "lastOpenFiles": [
-    "assets/img/blog_mascot.png",
     "assets/img/prof_pic.jpg",
+    "assets/img/blog_mascot.png",
     "assets/img/prof_pic_color.png",
     "assets/img/intelligence-for-sale.png",
     "assets/img/1.jpg",

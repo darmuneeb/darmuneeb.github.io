@@ -269,6 +269,6 @@ pagination:
 </div>
 {% endif %}
 
-<div style="text-align: right; margin-top: 20px;">
+<div style="text-align: center; margin-top: 20px;">
   <span class="simple-copyright">© {{ site.time | date: '%Y' }} Muneeb Ahmad Dar</span>
 </div>
