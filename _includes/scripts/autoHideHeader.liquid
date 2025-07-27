@@ -1,0 +1,52 @@
+<!-- Auto-hide header on scroll -->
+<script type="text/javascript">
+  (function() {
+    let lastScrollTop = 0;
+    let navbar = document.getElementById('navbar');
+    let progressBar = document.getElementById('progress');
+    
+    if (!navbar) return;
+    
+    // Add transition for smooth hide/show
+    navbar.style.transition = 'transform 0.3s ease-in-out';
+    
+    // Ensure progress bar stays visible when header is hidden
+    if (progressBar) {
+      progressBar.style.position = 'fixed';
+      progressBar.style.zIndex = '9999';
+    }
+    
+    window.addEventListener('scroll', function() {
+      let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      
+      // Only start hiding after scrolling past the header height
+      if (scrollTop > navbar.offsetHeight) {
+        if (scrollTop > lastScrollTop) {
+          // Scrolling down - hide header
+          navbar.style.transform = 'translateY(-100%)';
+          
+          // Keep progress bar at top when header is hidden
+          if (progressBar) {
+            progressBar.style.top = '0px';
+          }
+        } else {
+          // Scrolling up - show header
+          navbar.style.transform = 'translateY(0)';
+          
+          // Move progress bar back below header when shown
+          if (progressBar) {
+            progressBar.style.top = navbar.offsetHeight + 'px';
+          }
+        }
+      } else {
+        // At the top - always show header
+        navbar.style.transform = 'translateY(0)';
+        if (progressBar) {
+          progressBar.style.top = navbar.offsetHeight + 'px';
+        }
+      }
+      
+      lastScrollTop = scrollTop;
+    });
+  })();
+</script>

@@ -268,3 +268,9 @@ pagination:
   </div>
 </div>
 {% endif %}
+
+<!-- Decorative bottom line with robot mascot -->
+<div class="decorative-bottom">
+  <div class="gradient-line"></div>
+  <img src="{{ '/assets/img/blog_mascot.png' | relative_url }}" alt="Blog mascot" class="mascot-image">
+</div>
