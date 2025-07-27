@@ -1159,25 +1159,13 @@ ul.task-list input[type="checkbox"] {
 }
 
 // Footer
-footer.fixed-bottom {
-  background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
-
-  .container {
-    color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
-    text-align: center;
-  }
-
-  a {
-    color: var(--global-footer-link-color);
-
-    &:hover {
-      color: var(--global-theme-color);
-      text-decoration: none;
-    }
-  }
+.simple-copyright {
+  position: fixed;
+  bottom: 10px;
+  right: 15px;
+  font-size: 0.65rem;
+  color: var(--global-text-color-light);
+  z-index: 1000;
 }
 
 footer.sticky-bottom {
