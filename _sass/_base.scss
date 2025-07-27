@@ -781,6 +781,11 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand {
     color: var(--global-text-color);
+    
+    .font-weight-bold {
+      font-weight: 700 !important;
+      font-size: 1rem !important;
+    }
   }
 
   .navbar-nav .nav-item .nav-link {
