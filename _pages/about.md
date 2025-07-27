@@ -22,3 +22,7 @@ Hobbies include reading, working out and travelling. I write occasionally and yo
 Current motto '**collective salvation through individual freedom**'.
 
 Connect with me on  [LinkedIn](https://in.linkedin.com/in/muneebahmaddar) or [drop an email](mailto:muneebiitr@gmail.com)
+
+<div style="text-align: center; margin-top: 20px;">
+  <span class="simple-copyright">© {{ site.time | date: '%Y' }} Muneeb Ahmad Dar</span>
+</div>
