@@ -1181,20 +1181,15 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
+  position: relative;
+  margin-top: 20px;
   border: none;
   padding: 8px 12px;
   font-size: 0.75rem;
-  background: var(--global-bg-color);
-  border-radius: 6px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  z-index: 1000;
-  max-width: 200px;
+  text-align: center;
 
   .container {
-    text-align: right;
+    text-align: center;
     padding: 0;
   }
 }
@@ -1204,30 +1199,19 @@ footer.sticky-bottom {
   position: relative;
   margin: 4rem 0 2rem 0;
   
-  .blue-line {
+  .gradient-line {
     height: 3px;
     background: linear-gradient(90deg, var(--global-theme-color), var(--global-theme-color) 85%, transparent 100%);
     width: 100%;
     position: relative;
   }
   
-  .profile-avatar {
+  .mascot-image {
     position: absolute;
     right: 0;
     top: -20px;
     width: 40px;
     height: 40px;
-    border-radius: 50%;
-    border: 3px solid var(--global-theme-color);
-    background: var(--global-bg-color);
-    overflow: hidden;
-    
-    img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      border-radius: 50%;
-    }
   }
 }
 
