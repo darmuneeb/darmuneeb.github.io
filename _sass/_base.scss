@@ -1188,20 +1188,14 @@ footer.sticky-bottom {
 .decorative-bottom {
   position: relative;
   margin: 4rem 0 2rem 0;
-  
-  .gradient-line {
-    height: 3px;
-    background: linear-gradient(90deg, var(--global-theme-color), var(--global-theme-color) 85%, transparent 100%);
-    width: 100%;
-    position: relative;
-  }
+  width: 100%;
+  height: 60px;
   
   .mascot-image {
-    position: absolute;
-    right: 0;
-    top: -20px;
-    width: 40px;
-    height: 40px;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: left center;
   }
 }
 
