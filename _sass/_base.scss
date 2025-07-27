@@ -1163,7 +1163,9 @@ ul.task-list input[type="checkbox"] {
   position: fixed;
   bottom: 10px;
   right: 15px;
-  font-size: 0.65rem;
+  font-size: 0.8rem;
+  font-family: 'Newsreader', Georgia, serif;
+  font-weight: 300;
   color: var(--global-text-color-light);
   z-index: 1000;
 }

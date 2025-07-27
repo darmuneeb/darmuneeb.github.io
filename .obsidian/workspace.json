@@ -11,14 +11,12 @@
             "id": "1bc393de3e918332",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/2025-05-18-Intelligence-For-Sale.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/img/blog_mascot.png"
               },
-              "icon": "lucide-file",
-              "title": "2025-05-18-Intelligence-For-Sale"
+              "icon": "lucide-image",
+              "title": "blog_mascot"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "header-bar",
+                "query": "mascot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,9 +163,19 @@
   },
   "active": "1bc393de3e918332",
   "lastOpenFiles": [
-    "_posts/2025-05-17-The-Technological-Singularity.md",
-    "_posts/2025-05-18-Intelligence-For-Sale.md",
+    "assets/img/prof_pic.jpg",
+    "assets/img/prof_pic_color.png",
+    "assets/img/intelligence-for-sale.png",
     "assets/img/blog_mascot.png",
+    "assets/img/1.jpg",
+    "assets/img/2.jpg",
+    "assets/img/4.jpg",
+    "assets/img/8.jpg",
+    "assets/img/10.jpg",
+    "assets/img/12.jpg",
+    "assets/img/technological-singularity.png",
+    "_posts/2025-05-18-Intelligence-For-Sale.md",
+    "_posts/2025-05-17-The-Technological-Singularity.md",
     "_includes/scripts/autoHideHeader.liquid",
     "_posts/2025-05-14-the-cultural-and-philosophical-necessity-of-failure.md",
     "_posts/2024-08-19-adulting-guide.md",
@@ -196,20 +204,11 @@
     "_posts/2020-11-18-advice-for-the-younger-me.md",
     "_posts/2021-03-03-one.md",
     "extract_wordpress_posts.py",
-    "assets/img/technological-singularity.png",
-    "assets/img/intelligence-for-sale.png",
-    "readme_preview/distill.png",
-    "readme_preview/dark.png",
-    "readme_preview/cv.png",
     "Untitled.canvas",
     "Untitled",
     "_posts/2024-08-19_adulting_guide",
     "_posts/2024-08-19_adulting_guide copy",
     "robots.txt",
-    "requirements.txt",
-    "readme_preview/repositories.png",
-    "readme_preview/publications.png",
-    "readme_preview/projects.png",
-    "readme_preview/photos-screenshot.png"
+    "requirements.txt"
   ]
 }
