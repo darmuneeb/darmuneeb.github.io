@@ -2,7 +2,7 @@
 title: The God Question
 layout: post
 date: 2025-12-22 16:03:13
-description: Essay
+description: Reflections on the God debate, rationalism, and the limits of human knowledge
 tags:
   - essay
   - philosophy
@@ -18,7 +18,7 @@ related_posts: true
 There is much hype on social media about the recent debate on God between Javed Akhter and Mufti Shumail. I was least interested in the debate when it was suggested because that question seems long forgotten to me. I wrestled with the question in my college days and having seen the best of debates, from whom both sides from recent one borrow heavily, the question was settled in my mind. But I had to watch because my socials were filled with the apparently winning arguments of Mufti. So I watched the whole thing and here is what I think about not just the debate but the question itself.
 
 The existence of God is I think as old as our history. So it seems childish and hopelessly optimistic to wave goodbye to the question.
-It is the tragedy^[*This dogmatism is notably similar to the stubborn reliance on past for the opposite side of the debate*.] of rationalism and scientism(a post enlightenment trend to theorise everything instead of having humility to say we don't know anything conclusively) to think that humans can live with the unknown without invoking some kind of consensual meaningless method to organize around the unpredictability of world as reflected in the oft-repeated platitude, **if god wasn't there we would have to invent him**. So when we debate the existence of god it is simplistic and reductionist to debate the existence of entity God entails. The essential debate is around the limits of our knowledge and how to live with it. 
+It is the tragedy[^1] of rationalism and scientism(a post enlightenment trend to theorise everything instead of having humility to say we don't know anything conclusively) to think that humans can live with the unknown without invoking some kind of consensual meaningless method to organize around the unpredictability of world as reflected in the oft-repeated platitude, **if god wasn't there we would have to invent him**. So when we debate the existence of god it is simplistic and reductionist to debate the existence of entity God entails. The essential debate is around the limits of our knowledge and how to live with it. 
 
 When I say God is our answer to uncertainty I mean it in the same sense as some pseudo/proto religions like scientology, astrology etc are answers to questions science can't say anything about yet. It is then outside the rational domain and purely serves a functional one. The issue though is these have not evolved enough to pass judgements on out social, economic and political organisation but religions do and therein lies our basis of the conflict. 
 That is why the question 'Does God Exist?' is so inconsequential in its true meaning and any debate ultimately turns on religion and its inability to negotiate with the contemporary trends.
@@ -33,6 +33,8 @@ The father of Quantum Mechanics Erwin Schrödinger writes  and I think this nail
 To conclude I think the biggest trap  of the debate is reducing it to such simplicity as to render both sides wrong or at-least disagreeable. It so happens that the dogmatism usually attached to the religious side is mirrored in perfection by the Dawkins-Hitchen's side who seem too sure about science and don't get the social utility of religion. 
 There is a humility in saying we don't know enough but that which we know by proof and stands in contradiction to the traditions of past ought to be separated from the theology of religion for it to be compatible with the present. 
 "God exists because we exist."
+
+[^1]: This dogmatism is notably similar to the stubborn reliance on past for the opposite side of the debate.
 
 
 
