@@ -5,6 +5,9 @@ date: 2025-12-22 21:33:13
 description: Essay
 tags:
   - essay
+  - philosophy
+  - religion
+  - thoughts
 categories:
   - essay
 disqus_comments: false
