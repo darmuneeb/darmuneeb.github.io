@@ -12,6 +12,8 @@ categories:
   - essay
 disqus_comments: false
 rank: 1
+featured: true
+related_posts: true
 ---
 There is much hype on social media about the recent debate on God between Javed Akhter and Mufti Shumail. I was least interested in the debate when it was suggested because that question seems long forgotten to me. I wrestled with the question in my college days and having seen the best of debates, from whom both sides from recent one borrow heavily, the question was settled in my mind. But I had to watch because my socials were filled with the apparently winning arguments of Mufti. So I watched the whole thing and here is what I think about not just the debate but the question itself.
 
